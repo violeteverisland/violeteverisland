@@ -8,4 +8,14 @@ i believe <font color=blue size=10>Technology</font> and <font color=blue size =
 violeteverisland/violeteverisland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-for now,im just familiar with some kind of programming skills and web service and so on,but with courage and confidence,i can gain more knowledge
+for now,im just familiar with some kind of programming skills and web service and so on,but with courage and confidence,i can gain more skills
+>so About Me:
+
+* 📘 Education: Graduacted from Haerbin Institute of Technology.
+* 💼 Work Experience: Main job is engineer for opc control in zhejiang,wenzhou. 
+* 🎯 Interests: Full-stack, DevOps, AI,Web
+* 🏳️‍🌈 Language: Chinese (Native), English (Business)
+
+* Programming Languages:Very Familiar with Java. Know about SQL, JS, C, C++ and so on.
+* DevOps: Git
+* Others: 
