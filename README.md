@@ -12,7 +12,7 @@ for now,im just familiar with some kind of programming skills and web experience
 >so About Me:
 
 * 📘 Education: Graduacted from Haerbin Institute of Technology.
-* 💼 Work Experience: Main job is engineer for opc control in zhejiang,wenzhou. 
+* 💼 Work Experience: Main job is software development engineer in zhejiang,wenzhou. 
 * 🎯 Interests: Full-stack, DevOps, AI,Web
 * 🏳️‍🌈 Language: Chinese (Native), English (Business)
 
