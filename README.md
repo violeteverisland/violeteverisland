@@ -8,7 +8,7 @@ i believe <font color=blue size=10>Technology</font> and <font color=blue size =
 violeteverisland/violeteverisland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-for now,im just familiar with some kind of programming skills and web service and so on,but with courage and confidence,i can gain more skills
+for now,im just familiar with some kind of programming skills and web experience and so on,but with courage and confidence,i can gain more skills
 >so About Me:
 
 * 📘 Education: Graduacted from Haerbin Institute of Technology.
