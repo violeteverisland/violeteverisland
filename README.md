@@ -18,6 +18,4 @@ for now,im just familiar with some kind of programming skills and web experience
 
 * Programming Languages:Very Familiar with Java.familiar with c . Know about SQL, JS, C#, C++ and so on.
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=99999&color=FF0000&center=true&vCenter=true&width=800&lines=%E4%BA%BA%E6%B4%BB%E7%9D%80%E5%B0%B1%E6%98%AF%E4%B8%BA%E4%BA%86%E6%A8%B1%E5%B2%9B%E9%BA%BB%E8%A1%A3" alt="人活着就是为了樱岛麻衣" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=4EFF7000&width=435&lines=%E4%BA%BA%E6%B4%BB%E7%9D%80%E5%B0%B1%E6%98%AF%E4%B8%BA%E4%BA%86%E6%A8%B1%E5%B2%9B%E9%BA%BB%E8%A1%A3)](https://git.io/typing-svg)
