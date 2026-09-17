@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 for now,im just familiar with some kind of programming skills and web experience and so on,but with courage and confidence,i can gain more skills
 >so About Me:
 
-* 📘 Education: Graduacted from Haerbin Institute of Technology.
+* 📘 Education: Graduacted from Harbin Institute of Technology.
 * 💼 Work Experience: Main job is software development engineer in zhejiang,wenzhou. 
 * 🎯 Interests: Full-stack, DevOps, AI,Web
 * 🏳️‍🌈 Language: Chinese (Native), English (Business)
