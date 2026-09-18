@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 for now,im just familiar with some kind of programming skills and web experience and so on,but with courage and confidence,i can gain more skills
 >so About Me:
 
-* 📘 Education: Graduacted from Harbin Institute of Technology.
+* 📘 Education: Graduated from Harbin Institute of Technology.
 * 💼 Work Experience: Main job is software development engineer in zhejiang,wenzhou. 
 * 🎯 Interests: Full-stack, DevOps, AI,Web
 * 🏳️‍🌈 Language: Chinese (Native), English (Business)
 
 * Programming Languages:Very Familiar with Java.familiar with c . Know about SQL, JS, C#, C++ and so on.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=4EFF7000&width=435&lines=%E4%BA%BA%E6%B4%BB%E7%9D%80%E5%B0%B1%E6%98%AF%E4%B8%BA%E4%BA%86%E6%A8%B1%E5%B2%9B%E9%BA%BB%E8%A1%A3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=999&color=C647F7&width=600&height=100&lines=%E4%BA%BA%E6%B4%BB%E7%9D%80%E5%B0%B1%E6%98%AF%E4%B8%BA%E4%BA%86%E6%A8%B1%E5%B2%9B%E9%BA%BB%E8%A1%A3)](https://git.io/typing-svg)
